@@ -2,7 +2,9 @@
 A Spring Boot web app for secure file upload, listing, and deletion via AWS S3. Features region-specific bucket handling, auto-deletion lifecycle rules, and Docker-based deployment with environment-managed AWS credentials.
 
 # Security and AWS key
-In order to gain Access to AWS key for a docker-compose.yml and springboot-s3-user_accessKeys.csv, you will have to email me via anishkajan2005@gmail.com or on linkedin via https://www.linkedin.com/in/anish-kajan/
+-In order to gain Access to AWS key for a docker-compose.yml,springboot-s3-user_accessKeys.csv, and application.properties.
+
+-you will have to email me via anishkajan2005@gmail.com or on linkedin via https://www.linkedin.com/in/anish-kajan/
 
 
 
